@@ -5,3 +5,5 @@ backend/.env
 frontend/node_modules
 
 dashboard/node_modules
+
+.gitignore
